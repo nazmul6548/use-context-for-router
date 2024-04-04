@@ -1,7 +1,7 @@
 [
     {
       "movieName": "The Dark Knight",
-      "bannerURL": "https://example.com/dark_knight_banner.jpg",
+      "bannerURL": "https://i.ibb.co/Y7LtQbV/e9a43e647b2ca70e75a3c0af046c4dfdcd712380889779cbdc2c57d94ab63902.jpg",
       "genre": ["Action", "Crime", "Drama"],
       "duration": "2h 32min",
       "rating": 9.0,
@@ -12,7 +12,7 @@
     },
     {
       "movieName": "Inception",
-      "bannerURL": "https://example.com/inception_banner.jpg",
+      "bannerURL": "https://i.ibb.co/fD1hfFh/p7825626-p-v8-af.jpg",
       "genre": ["Action", "Adventure", "Sci-Fi"],
       "duration": "2h 28min",
       "rating": 8.8,
@@ -23,7 +23,7 @@
     },
     {
       "movieName": "Interstellar",
-      "bannerURL": "https://example.com/interstellar_banner.jpg",
+      "bannerURL": "https://i.ibb.co/bPF2LWH/91-Jno-M0kh-KL-AC-UF894-1000-QL80.jpg",
       "genre": ["Adventure", "Drama", "Sci-Fi"],
       "duration": "2h 49min",
       "rating": 8.6,
@@ -34,7 +34,7 @@
     },
     {
       "movieName": "The Shawshank Redemption",
-      "bannerURL": "https://example.com/shawshank_redemption_banner.jpg",
+      "bannerURL": "https://i.ibb.co/S0dv9Ff/ab67616d0000b273e710c1f5b228046932790031.jpg",
       "genre": ["Drama"],
       "duration": "2h 22min",
       "rating": 9.3,
@@ -45,7 +45,7 @@
     },
     {
       "movieName": "Fight Club",
-      "bannerURL": "https://example.com/fight_club_banner.jpg",
+      "bannerURL": "https://i.ibb.co/v4r0k4X/MV5-BMGFl-NWM0-NWYt-MWI3-OS00-OTMy-LTg0-YWYt-Njhl-Nj-Ri-YWUy-Zj-Rl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTUz-NTgz-N.jpg",
       "genre": ["Drama"],
       "duration": "2h 19min",
       "rating": 8.8,
@@ -56,7 +56,7 @@
     },
     {
       "movieName": "The Godfather",
-      "bannerURL": "https://example.com/godfather_banner.jpg",
+      "bannerURL": "https://i.ibb.co/nMZDB7Q/the-godfather-poster.jpg",
       "genre": ["Crime", "Drama"],
       "duration": "2h 55min",
       "rating": 9.2,
@@ -67,3 +67,11 @@
     }
   ]
   
+
+
+
+  
+
+
+
+
