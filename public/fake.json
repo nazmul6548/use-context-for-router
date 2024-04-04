@@ -8,7 +8,7 @@
       "releaseDate": "2008-07-18",
       "shortDescription": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
       "totalViews": 1000000,
-      "reward": false
+      "reward": "2 oscar"
     },
     {
       "movieName": "Inception",
@@ -19,7 +19,7 @@
       "releaseDate": "2010-07-16",
       "shortDescription": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
       "totalViews": 950000,
-      "reward": true
+      "reward": "4 oscar"
     },
     {
       "movieName": "Interstellar",
@@ -30,7 +30,7 @@
       "releaseDate": "2014-11-07",
       "shortDescription": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
       "totalViews": 850000,
-      "reward": true
+      "reward": "3 oscar"
     },
     {
       "movieName": "The Shawshank Redemption",
@@ -41,7 +41,7 @@
       "releaseDate": "1994-10-14",
       "shortDescription": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
       "totalViews": 1200000,
-      "reward": false
+      "reward": "1 oscar"
     },
     {
       "movieName": "Fight Club",
@@ -52,7 +52,7 @@
       "releaseDate": "1999-10-15",
       "shortDescription": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
       "totalViews": 1100000,
-      "reward": false
+      "reward": "5 oscar"
     },
     {
       "movieName": "The Godfather",
@@ -63,7 +63,7 @@
       "releaseDate": "1972-03-24",
       "shortDescription": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
       "totalViews": 1150000,
-      "reward": false
+      "reward": "6 oscar"
     }
   ]
   

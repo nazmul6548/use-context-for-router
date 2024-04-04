@@ -11,7 +11,7 @@ const Card = ({movie}) => {
     <h2 className="card-title">{movieName}</h2>
     <p>{shortDescription}</p>
     <div className="card-actions">
-      <button className="btn btn-primary">Buy Now</button>
+     <h3>totalView : {totalViews}</h3>
     </div>
   </div>
 </div>

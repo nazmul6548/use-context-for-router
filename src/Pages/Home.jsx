@@ -1,15 +1,10 @@
-import { useEffect, useState } from "react";
+import { useContext } from "react";
 import Card from "../component/Card";
-
+import { JewelContext } from "./ContextComponent";
 
 const Home = () => {
-    const [movies,setMovies]= useState([])
-    useEffect(()=> {
-fetch("fake.json")
-.then((res) => res.json())
-.then((data) => setMovies(data))
-    },[])
-    console.log(movies);
+    const {movies} =useContext(JewelContext)
+    
 
     return (
         <div className="grid grid-cols-3 gap-10 mt-10">

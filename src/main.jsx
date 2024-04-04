@@ -8,6 +8,7 @@ import Root from "./Pages/Root";
 import TopMOvies from "./Pages/TopMOvies";
 import Rewardmovies from "./Pages/Rewardmovies";
 import Home from "./Pages/Home";
+import ContextComponent from "./Pages/ContextComponent";
 
 const router = createBrowserRouter([
   {
@@ -32,6 +33,8 @@ const router = createBrowserRouter([
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <RouterProvider router={router} />
+   <ContextComponent>
+   <RouterProvider router={router} />
+   </ContextComponent>
   </React.StrictMode>
 );
